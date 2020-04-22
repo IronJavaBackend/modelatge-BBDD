@@ -8,3 +8,6 @@
 
 ## Exercise 3
 ![Exercise-3](/img/ex-3.png)
+
+## Exercise 4
+![Exercise-4](/img/ex-4.png)
