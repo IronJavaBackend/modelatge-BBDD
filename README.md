@@ -11,3 +11,6 @@
 
 ## Exercise 4
 ![Exercise-4](/img/ex-4.png)
+
+## Exercise 5
+![Exercise-5](/img/ex-5.png)
